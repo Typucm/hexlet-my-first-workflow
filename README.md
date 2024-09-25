@@ -1,3 +1,3 @@
 # hexlet-my-first-workflow
 
-![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=bin)
+![example workflow](https://github.com/github/docs/actions/workflows/show-directory.yml/badge.svg)
